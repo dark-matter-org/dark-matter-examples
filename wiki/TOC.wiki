@@ -12,6 +12,4 @@ So much attention is focused on the MVP/MVC/UI aspects of applications, whereas 
 </td>
 </tr>
 
-
-
-<h1> test </h1>
+</table>
