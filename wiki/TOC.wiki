@@ -2,6 +2,6 @@
 
 = Dark Matter Data Overview =
 
-|| http://www.dark-matter-data.org/images/dmd-100x100.png || So much attention is focused on the MVP/MVC/UI aspects of applications, whereas the handling of data (the model) is mentioned as an afterthought. This is despite the fact that the presentation and manipulation of data is the primary reason for the existence of the user interface. The Dark Matter Data project addresses this disparity by defining   ||
+||http://www.dark-matter-data.org/images/dmd-100x100.png || So much attention is focused on the MVP/MVC/UI aspects of applications, whereas the handling of data (the model) is mentioned as an afterthought. This is despite the fact that the presentation and manipulation of data is the primary reason for the existence of the user interface. The Dark Matter Data project addresses this disparity by defining  ||
 
 ----
