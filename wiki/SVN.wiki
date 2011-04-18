@@ -8,3 +8,5 @@ Note: all examples are oriented towards an Eclipse development environment
  # Select "Create a new repository location"
  # Enter the URL as: https://dark-matter-examples.googlecode.com/svn/trunk/
  # Select dark-matter-examples <br> <br> <img height="360" src="http://dark-matter-data.org/images/selectFolderSVN.png"/>
+ # Hit Finish
+ # The dark-matter-examples project should now be available in your package explorer. 
