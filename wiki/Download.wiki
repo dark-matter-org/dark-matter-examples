@@ -1,13 +1,5 @@
 #summary How to download Dark Matter Data Examples.
 
-= Introduction =
+Currently, the best way to access the Dark Matter Example code base is to check out the project in Eclipse via [SVN].
 
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+Since this is early days for Dark Matter, the downloads would be changing at too great a rate.
