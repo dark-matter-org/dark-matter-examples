@@ -1,0 +1,3 @@
+#summary Preparing to run the Dark Matter Object generator.
+
+Now that you have the dark-matter-examples project available in Eclipse, you're going to need to create a couple of run configurations to access the Dark Matter Object (DMO) generator and the Dark Matter Wrapper (DMW) generator.
