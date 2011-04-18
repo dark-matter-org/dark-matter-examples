@@ -3,5 +3,5 @@
 ==== Introduction ====
 
 * [overview Overview]
- * [overview Download]
- * [overview SVN]
+ * [Download]
+ * SVN]
