@@ -7,8 +7,9 @@
 <td valign="top" width="120">
 http://www.dark-matter-data.org/images/dmd-100x100.png 
 </td>
-<td valign="top">
-So much attention is focused on the MVP/MVC/UI aspects of applications, whereas the handling of data (the model) is mentioned as an afterthought. This is despite the fact that the presentation and manipulation of data is the primary reason for the existence of the user interface.
+<td>
+
+So much attention is focused on the MVP/MVC aspects of applications, whereas the handling of data (the model) is mentioned as an afterthought. This is despite the fact that the presentation and manipulation of data is the primary reason for the existence of the user interface.
 
 The Dark Matter Data project addresses this disparity by defining a schema driven framework that provides a consist, easy to understand, mechanism for defining your data model, generating Java objects that represent that data and a standard protocol for Creating, Retrieving, Updating, Deleting and receiving Events about those objects. Instead of just CRUD, one might say you get CRUDE, where the E stands for events. And we all understand how valuable crude is these days.
 
