@@ -1,7 +1,6 @@
 #summary Table of Contents
 
 ==== Introduction ====
-
 * [Overview]
  * [Download]
  * [SVN]
