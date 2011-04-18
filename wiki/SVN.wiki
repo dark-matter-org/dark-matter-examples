@@ -4,4 +4,7 @@ Note: all examples are oriented towards an Eclipse development environment
 
  # In Eclipse select File->Import
  # Select Checkout Projects from SVN <br> <br> <img height="350" src="http://dark-matter-data.org/images/checkOutSVN.jpg"/>
- # 
+ # Hit Next >
+ # Select "Create a new repository location"
+ # Enter the URL as: https://dark-matter-examples.googlecode.com/svn/trunk/
+ # Select dark-matter-examples <br> <br> <img height="360" src="http://dark-matter-data.org/images/selectFolderSVN.png"/>
