@@ -3,5 +3,5 @@
 Note: all examples are oriented towards an Eclipse development environment
 
  # In Eclipse select File->Import
- # Select Checkout Projects from SVN
-<img height="800" src="http://dark-matter-data.org/images/checkOutSVN.png" />
+ # Select Checkout Projects from SVN <br> <br> <img height="350" src="http://dark-matter-data.org/images/checkOutSVN.jpg"/>
+ # 
