@@ -1,0 +1,8 @@
+SchemaDefinition
+name					example
+schemaBaseID			1000
+schemaIDRange			1000
+defFiles    			attributes.dmd
+defFiles				classes.dmd
+schemaPackage 			org.dmd.shared
+description 			The belairmo schema defines objects that are managed by the BelAir Server
