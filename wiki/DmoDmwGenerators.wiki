@@ -4,5 +4,5 @@ Now that you have the dark-matter-examples project available in Eclipse, you're 
 
  # Select the run configuration menu and hit Run Configurations... <br> <br> <img height="200" src="http://dark-matter-data.org/images/runConfigs1.png"/>
  # Double click Java Application to create a new run configuration <br> <br> <img height="400" src="http://dark-matter-data.org/images/runConfigs2.png"/> <br> 
- # Name the configuration DMO Generator. Set Main class: dmo and then hit Search... <br> <br> <img height="440" src="http://dark-matter-data.org/images/runConfigs3.png"/>
- # Select DmoGeneratorMain and hit OK <br> <br> <img height="440" src="http://dark-matter-data.org/images/runConfigs4.png"/>
+ # Name the configuration DMO Generator. Set Main class: dmo and then hit Search... <br> <br> <img height="440" src="http://dark-matter-data.org/images/runConfigs3.png"/> <br>
+ # Select DmoGeneratorMain and hit OK <br> <br> <img height="330" src="http://dark-matter-data.org/images/runConfigs4.png"/> <br>
