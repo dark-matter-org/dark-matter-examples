@@ -19,8 +19,13 @@ By "operational context" here, I mean that you can use DMOs in a Java server imp
 
 Since each context has its own limitations/advantages, this means that you can tailor the behavioral aspects of your objects to their environment without polluting the data representation. By using the standardized (but extensible) Dark Matter Protocol (DMP) all communications associated with your CRUDE interactions can take place between your various operational contexts.
 
-<img src="http://dark-matter-data.org/images/dmoOverview.png" align="middle"/>
-
+<table border=0 width="100%">
+<tr align="center">
+<td>
+<img src="http://dark-matter-data.org/images/dmoOverview.png"/>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
