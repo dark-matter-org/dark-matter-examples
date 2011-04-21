@@ -1,0 +1,3 @@
+#summary An overview of the Dark Matter Schema specification.
+
+= Dark Matter Schema =
