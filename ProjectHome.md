@@ -1,0 +1,1 @@
+The Dark Matter Data framework provides a schema-driven environment that allows for the rapid development applications that manipulate data in a variety of operational contexts e.g. Java server, Java client, GWT client. This package provides example code that provides a basis for understanding the framework.
